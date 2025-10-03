@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{7cfddfad-f7e2-40f3-aeab-4b6cb539574b}">
+		<property name="color">
+			<value>Red Light 1</value>
+		</property>
+		<property name="assetPath">
+			<value>assets_mus/assets_mus_area_forest/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d6bc17eb-1ff8-4c9a-ab2d-318cdf7d530f}</destination>
+		</relationship>
+	</object>
+</objects>

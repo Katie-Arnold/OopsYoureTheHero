@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{885ce0c5-8909-4593-bb75-4aa5b59db4bf}">
+		<property name="color">
+			<value>Yellow Light 2</value>
+		</property>
+		<property name="assetPath">
+			<value>assets_sfxs/assets_sfxs_env/sfx_env_alarm_loop.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>29.964489795918368</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d6bc17eb-1ff8-4c9a-ab2d-318cdf7d530f}</destination>
+		</relationship>
+	</object>
+</objects>

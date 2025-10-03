@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f5e79b8e-14f9-4739-b226-7aea91e49d6e}">
+		<property name="color">
+			<value>Red Light 2</value>
+		</property>
+		<property name="assetPath">
+			<value>assets_mus/assets_mus_area_lake/mus_area_lake_combat_bossfight_stinger.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.6923129251700679</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d6bc17eb-1ff8-4c9a-ab2d-318cdf7d530f}</destination>
+		</relationship>
+	</object>
+</objects>

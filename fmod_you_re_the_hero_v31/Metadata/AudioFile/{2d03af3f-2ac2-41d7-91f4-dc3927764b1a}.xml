@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2d03af3f-2ac2-41d7-91f4-dc3927764b1a}">
+		<property name="color">
+			<value>Red Light 2</value>
+		</property>
+		<property name="assetPath">
+			<value>assets_mus/assets_mus_area_tutorial/mus_area_tutorial_escape_stinger.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.1428571428571432</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d6bc17eb-1ff8-4c9a-ab2d-318cdf7d530f}</destination>
+		</relationship>
+	</object>
+</objects>

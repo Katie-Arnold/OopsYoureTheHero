@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{369b3161-48a7-49be-a8df-3231d27234c7}">
+		<property name="color">
+			<value>Magenta Light 1</value>
+		</property>
+		<property name="assetPath">
+			<value>assets_sfxs/assets_amb/sfx_amb_cave_whispering_var03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.8624943310657596</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d6bc17eb-1ff8-4c9a-ab2d-318cdf7d530f}</destination>
+		</relationship>
+	</object>
+</objects>

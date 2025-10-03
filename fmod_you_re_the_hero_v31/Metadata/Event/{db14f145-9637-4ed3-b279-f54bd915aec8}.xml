@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Event" id="{db14f145-9637-4ed3-b279-f54bd915aec8}">
+		<property name="color">
+			<value>Yellow Light 2</value>
+		</property>
+		<property name="name">
+			<value>ui_menu_buttom</value>
+		</property>
+		<property name="outputFormat">
+			<value>1</value>
+		</property>
+		<relationship name="folder">
+			<destination>{985f5712-b3fb-44a7-92f3-cfa7676e8546}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{8386e67f-fe73-4656-8c83-13a1e832dd1e}</destination>
+		</relationship>
+		<relationship name="masterTrack">
+			<destination>{685daa22-6623-410c-8b98-92d9e1827332}</destination>
+		</relationship>
+		<relationship name="mixerInput">
+			<destination>{5aed84f3-b007-47fc-9f23-a29d5da450a3}</destination>
+		</relationship>
+		<relationship name="automatableProperties">
+			<destination>{93029725-0c33-4e28-8578-8de5a7cc71e2}</destination>
+		</relationship>
+		<relationship name="markerTracks">
+			<destination>{9a8b1ace-27b8-42bf-bb60-e466bdd7cbd3}</destination>
+		</relationship>
+		<relationship name="groupTracks">
+			<destination>{e1823409-6bee-4cdd-b1ea-300c25fa5bb8}</destination>
+		</relationship>
+		<relationship name="timeline">
+			<destination>{6c81ebf7-bf8a-404e-b8ca-f52fa5fa482e}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{921f248c-0863-4544-85a5-54209740043c}</destination>
+		</relationship>
+	</object>
+	<object class="EventMixer" id="{8386e67f-fe73-4656-8c83-13a1e832dd1e}">
+		<relationship name="masterBus">
+			<destination>{f6203593-84ed-4226-a4de-9adc05a894b8}</destination>
+		</relationship>
+	</object>
+	<object class="MasterTrack" id="{685daa22-6623-410c-8b98-92d9e1827332}">
+		<relationship name="mixerGroup">
+			<destination>{f6203593-84ed-4226-a4de-9adc05a894b8}</destination>
+		</relationship>
+	</object>
+	<object class="MixerInput" id="{5aed84f3-b007-47fc-9f23-a29d5da450a3}">
+		<relationship name="effectChain">
+			<destination>{df6a0c67-e8bb-462b-8688-6c7968478050}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{041ae4ba-18b6-40e7-b59b-3b7ead978631}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{d6563a5c-edd0-4306-890c-d2baec74630f}</destination>
+		</relationship>
+	</object>
+	<object class="EventAutomatableProperties" id="{93029725-0c33-4e28-8578-8de5a7cc71e2}" />
+	<object class="MarkerTrack" id="{9a8b1ace-27b8-42bf-bb60-e466bdd7cbd3}" />
+	<object class="GroupTrack" id="{e1823409-6bee-4cdd-b1ea-300c25fa5bb8}">
+		<relationship name="modules">
+			<destination>{ebcbcc15-615c-4001-a797-6a9b0c90c839}</destination>
+		</relationship>
+		<relationship name="mixerGroup">
+			<destination>{8ee710c6-5402-4463-b06e-d8c3a44d4992}</destination>
+		</relationship>
+	</object>
+	<object class="Timeline" id="{6c81ebf7-bf8a-404e-b8ca-f52fa5fa482e}">
+		<relationship name="modules">
+			<destination>{ebcbcc15-615c-4001-a797-6a9b0c90c839}</destination>
+		</relationship>
+	</object>
+	<object class="EventMixerMaster" id="{f6203593-84ed-4226-a4de-9adc05a894b8}">
+		<property name="color">
+			<value>Blue</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{ce3bf29d-f42d-4946-9a76-322131c64600}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{d911087a-cbc8-4948-a25a-3620dbfbe185}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{8386e67f-fe73-4656-8c83-13a1e832dd1e}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{df6a0c67-e8bb-462b-8688-6c7968478050}">
+		<relationship name="effects">
+			<destination>{8c348467-0043-4075-9178-a41bf21601fc}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{041ae4ba-18b6-40e7-b59b-3b7ead978631}" />
+	<object class="SingleSound" id="{ebcbcc15-615c-4001-a797-6a9b0c90c839}">
+		<property name="color">
+			<value>Yellow Light 1</value>
+		</property>
+		<property name="length">
+			<value>0.43303854875283448</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{1e00bc50-9030-44a8-bab7-4df1f4a61650}</destination>
+		</relationship>
+		<relationship name="audioFile">
+			<destination>{42f81c00-3ede-4595-8fc1-066d7231d24b}</destination>
+		</relationship>
+	</object>
+	<object class="EventMixerGroup" id="{8ee710c6-5402-4463-b06e-d8c3a44d4992}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
+		<property name="volume">
+			<value>-10.5</value>
+		</property>
+		<property name="name">
+			<value>ui_menu_buttom</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{ec53d6c6-014b-4f17-bbaa-970588f17675}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{18fe6f9f-d185-49f3-b851-6e8f26ff52c0}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{f6203593-84ed-4226-a4de-9adc05a894b8}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{ce3bf29d-f42d-4946-9a76-322131c64600}">
+		<relationship name="effects">
+			<destination>{1267b07f-b570-4ce0-8b0c-ce747f937b13}</destination>
+			<destination>{97f1535f-1fc5-40d6-b1f0-2fee71d02fb8}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{d911087a-cbc8-4948-a25a-3620dbfbe185}" />
+	<object class="MixerBusFader" id="{8c348467-0043-4075-9178-a41bf21601fc}" />
+	<object class="RandomizerModulator" id="{1e00bc50-9030-44a8-bab7-4df1f4a61650}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>18</value>
+		</property>
+	</object>
+	<object class="MixerBusEffectChain" id="{ec53d6c6-014b-4f17-bbaa-970588f17675}">
+		<relationship name="effects">
+			<destination>{09b24afd-52f4-420d-be92-cdd4e008af18}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{18fe6f9f-d185-49f3-b851-6e8f26ff52c0}" />
+	<object class="MixerBusFader" id="{1267b07f-b570-4ce0-8b0c-ce747f937b13}" />
+	<object class="SFXReverbEffect" id="{97f1535f-1fc5-40d6-b1f0-2fee71d02fb8}">
+		<property name="wetLevel">
+			<value>-31</value>
+		</property>
+	</object>
+	<object class="MixerBusFader" id="{09b24afd-52f4-420d-be92-cdd4e008af18}" />
+</objects>
