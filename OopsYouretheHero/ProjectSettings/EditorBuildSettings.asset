@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ef1dc5923cef96d4e93808dd5db50c1d
+  - enabled: 1
+    path: Assets/Scenes/LoreIntro.unity
+    guid: d7324de9c9e7f344aa9dd3ffb19a63f0
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: e11726008eb2a9a49a497ceca17491ae
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2d1357ed5c2ba954c939911af4626ddb
+  - enabled: 1
+    path: Assets/Scenes/DeathScreen.unity
+    guid: 29eefc70126786d488e6c465ab3e34bd
+  - enabled: 1
+    path: Assets/Scenes/EndCredits.unity
+    guid: 1acffdae7199ae04095c09b78f2521f5
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

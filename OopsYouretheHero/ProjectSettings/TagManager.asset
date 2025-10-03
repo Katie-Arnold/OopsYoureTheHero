@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boss
+  - Blocks
+  - GobMinion
+  - SwordSlash
+  - HurtOverlay
+  - Dummy
+  - Dummy2
+  - Dummy3
+  - GobMoot
+  - Explosive
+  - Explodable
+  - Explodable2
+  - Explodable3
+  - Rope
+  - DumBlocks
+  - Explodable4
+  - Explodable5
+  - SwingArea
+  - LeftSwing
+  - RightSwing
+  - GobMax
+  - GobMud
+  - RopeSwingBottom
+  - PlayerHealthUI
+  - Pebbles
+  - Clacker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PlayerLayer
+  - MusicLayer
+  - Explodable
+  - Swingable
+  - Explosive
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
