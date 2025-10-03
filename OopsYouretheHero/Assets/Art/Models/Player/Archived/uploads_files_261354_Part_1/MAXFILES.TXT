@@ -1,0 +1,21 @@
+﻿F:\DESIGN\MY_MODELING_3D\CHARACTER\Character game part 1\PART_1\t$m$p$$$\Part_1.max
+F:\DESIGN\MY_MODELING_3D\CHARACTER\Character game part 1\PART_1\t$m$p$$$\MAXFILES.TXT
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\Maleface_01_hero_diffuse.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\Femaleface_01_hero_diffuse.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\light_040lv_01_o01_hero_head_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\hero_head_07.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\human_yudit_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\human_warpriest_lux_2_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_head_blue_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_hands_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_lower_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_feet_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_hands_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_upper_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_lower_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_feet_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_weapon_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_upperback_short_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_head_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_upperback_M.dds
+F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\human_warpriest_lux_1_M.dds

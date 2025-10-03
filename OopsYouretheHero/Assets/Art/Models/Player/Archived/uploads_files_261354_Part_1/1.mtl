@@ -1,0 +1,240 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 06.03.2016 13:00:01
+
+newmtl Material__88
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\human_yudit_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\human_yudit_M.dds
+
+newmtl Material__90
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\human_warpriest_lux_2_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\human_warpriest_lux_2_M.dds
+
+newmtl Material__33
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_head_blue_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_head_blue_M.dds
+
+newmtl Material__30
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_hands_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_hands_M.dds
+
+newmtl Material__32
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_lower_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_lower_M.dds
+
+newmtl Material__146
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_feet_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_feet_M.dds
+
+newmtl Material__48
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_hands_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_hands_M.dds
+
+newmtl Material__49
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_upper_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_upper_M.dds
+
+newmtl Material__50
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_lower_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_lower_M.dds
+
+newmtl Material__47
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_feet_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_feet_M.dds
+
+newmtl Material__34
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_weapon_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_weapon_M.dds
+
+newmtl Material__29
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_head_blue_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_head_blue_M.dds
+
+newmtl Material__35
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_upperback_short_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\armor_decoration_upperback_short_M.dds
+
+newmtl Material__157
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_head_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_heroine_head_M.dds
+
+newmtl Material__166
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\Femaleface_01_hero_diffuse.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\Femaleface_01_hero_diffuse.dds
+
+newmtl Material__45
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_upperback_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\robe_040lv_01_o01_upperback_M.dds
+
+newmtl Material__59
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\human_warpriest_lux_1_M.dds
+	map_Kd F:\DESIGN\MY_MODELING_3D\CHARACTER\MAPS\human_warpriest_lux_1_M.dds

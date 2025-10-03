@@ -1,0 +1,281 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &662256965766504695
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 662256965766504692}
+  - component: {fileID: 662256965766504693}
+  m_Layer: 0
+  m_Name: FMODEvents
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &662256965766504692
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 662256965766504695}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 662256966024476223}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &662256965766504693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 662256965766504695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 194c151b14cbcec4a90247629f06f15b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <dialoguePop>k__BackingField:
+    Guid:
+      Data1: -1642172134
+      Data2: 1166908367
+      Data3: 2090683027
+      Data4: 576038782
+    Path: event:/sfx/ui/ui_dialogue_text
+  <buttonPress>k__BackingField:
+    Guid:
+      Data1: -619384507
+      Data2: 1322489399
+      Data3: 1274378674
+      Data4: -928115239
+    Path: event:/sfx/ui/ui_menu_buttom
+  <ambience>k__BackingField:
+    Guid:
+      Data1: -472070031
+      Data2: 1229041843
+      Data3: -1341205879
+      Data4: -552018297
+    Path: event:/amb/sfx_amb_field
+  <caveAmbience>k__BackingField:
+    Guid:
+      Data1: 1315108063
+      Data2: 1109558197
+      Data3: 964317353
+      Data4: 317188823
+    Path: event:/amb/sfx_amb_cave
+  <lakeAmbience>k__BackingField:
+    Guid:
+      Data1: 339603776
+      Data2: 1247014081
+      Data3: 1365019830
+      Data4: -1023640634
+    Path: event:/amb/sfx_amb_lake
+  <rainAmbience>k__BackingField:
+    Guid:
+      Data1: 2014772960
+      Data2: 1074576233
+      Data3: 2016394394
+      Data4: -1028741357
+    Path: event:/amb/sfx_amb_lake_boss
+  <mainMenuMusic>k__BackingField:
+    Guid:
+      Data1: -1551591332
+      Data2: 1235546712
+      Data3: -1891598708
+      Data4: -1954968608
+    Path: event:/mus/mus_menu
+  <loreMenuMusic>k__BackingField:
+    Guid:
+      Data1: 846887823
+      Data2: 1258242084
+      Data3: 146159769
+      Data4: -1050916966
+    Path: event:/mus/mus_cutscene_intro
+  <templeMusic>k__BackingField:
+    Guid:
+      Data1: -2013929078
+      Data2: 1118967382
+      Data3: -1152807762
+      Data4: 406906006
+    Path: event:/mus/mus_area_tutorial
+  <explorationMusic>k__BackingField:
+    Guid:
+      Data1: -105568424
+      Data2: 1232432461
+      Data3: -1884956012
+      Data4: 1894592177
+    Path: event:/mus/mus_area_forest
+  <caveExplorationMusic>k__BackingField:
+    Guid:
+      Data1: -1783365085
+      Data2: 1079578327
+      Data3: -119838273
+      Data4: 745307645
+    Path: event:/mus/mus_area_cave
+  <lakeExplorationMusic>k__BackingField:
+    Guid:
+      Data1: -1153395153
+      Data2: 1308449101
+      Data3: 2127055769
+      Data4: -191602654
+    Path: event:/mus/mus_area_lake
+  <playerSwordSwing>k__BackingField:
+    Guid:
+      Data1: -128508459
+      Data2: 1317894253
+      Data3: 24195968
+      Data4: 1177521515
+    Path: event:/sfx/player/sfx_player_attack
+  <playerRopeSwing>k__BackingField:
+    Guid:
+      Data1: 1697873771
+      Data2: 1277483977
+      Data3: 984583824
+      Data4: 1282084127
+    Path: event:/sfx/player/sfx_player_rope_swing
+  <enemyHit>k__BackingField:
+    Guid:
+      Data1: -1921712853
+      Data2: 1312675573
+      Data3: 765609860
+      Data4: 576587039
+    Path: event:/sfx/player/sfx_player_hit
+  <loseHealth>k__BackingField:
+    Guid:
+      Data1: 655508027
+      Data2: 1137321508
+      Data3: 250012604
+      Data4: -740354702
+    Path: event:/sfx/player/sfx_player_losinghealth
+  <explosiveBarrel>k__BackingField:
+    Guid:
+      Data1: 441399037
+      Data2: 1134239258
+      Data3: -1229697887
+      Data4: -1504976452
+    Path: event:/sfx/item/sfx_item_explosion
+  <alarmBell>k__BackingField:
+    Guid:
+      Data1: -1624349848
+      Data2: 1121061079
+      Data3: -217998693
+      Data4: -114702330
+    Path: event:/sfx/env/sfx_env_alarm
+  <fireBurning>k__BackingField:
+    Guid:
+      Data1: -1817555943
+      Data2: 1299079243
+      Data3: 835426979
+      Data4: 374636281
+    Path: event:/sfx/env/sfx_env_fire
+  <itemInteraction>k__BackingField:
+    Guid:
+      Data1: 286064241
+      Data2: 1269500615
+      Data3: -388663144
+      Data4: 1279399937
+    Path: event:/sfx/item/sfx_item_interaction_var01
+  <faeChimes>k__BackingField:
+    Guid:
+      Data1: 724682318
+      Data2: 1244968625
+      Data3: 438911381
+      Data4: -1149886068
+    Path: event:/sfx/env/sfx_env_chimes
+  <waterFall>k__BackingField:
+    Guid:
+      Data1: 231945244
+      Data2: 1147622705
+      Data3: -734606405
+      Data4: -1124330798
+    Path: event:/sfx/env/sfx_env_waterfall
+  <water>k__BackingField:
+    Guid:
+      Data1: 556505599
+      Data2: 1116318921
+      Data3: -226568031
+      Data4: -295640951
+    Path: event:/sfx/env/sfx_env_water
+  <DummySlash>k__BackingField:
+    Guid:
+      Data1: -2107284612
+      Data2: 1276367037
+      Data3: -694047819
+      Data4: 1529409669
+    Path: event:/sfx/npc/sfx_enemy_attack
+  <arrowAttack>k__BackingField:
+    Guid:
+      Data1: 377200941
+      Data2: 1153473272
+      Data3: -1111994227
+      Data4: 196229061
+    Path: event:/sfx/npc/sfx_enemy_arrow
+  <gobBossSlash>k__BackingField:
+    Guid:
+      Data1: 1042720149
+      Data2: 1310417733
+      Data3: 716771515
+      Data4: -568138559
+    Path: event:/sfx/npc/sfx_boss_attack
+  <gobBossJump>k__BackingField:
+    Guid:
+      Data1: -1480548548
+      Data2: 1246677591
+      Data3: -1030859647
+      Data4: 1683667783
+    Path: event:/sfx/npc/sfx_boss_jumpattack
+--- !u!1 &662256966024476209
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 662256966024476223}
+  - component: {fileID: 662256966024476222}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &662256966024476223
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 662256966024476209}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 41.673042, y: 49.508408, z: 46.75244}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 662256965766504692}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &662256966024476222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 662256966024476209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1c980a4c06b99c48824be2ce02164ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  masterVolume: 1
